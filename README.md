@@ -714,6 +714,11 @@ See [BUILD].
 [BUILD]: BUILD.md
 
 
+## For Sound via USB :
+
+Use sndcpy by rom1v : https://github.com/rom1v/sndcpy (Works only with Android 10+)
+For previous Android Versions - Use USBAudio by Rom1v : https://github.com/rom1v/usbaudio (Still Unstable)
+
 ## Common issues
 
 See the [FAQ](FAQ.md).
